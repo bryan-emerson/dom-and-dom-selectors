@@ -296,9 +296,9 @@ The way we get and set classes on nodes is with the `classList` API. The
 
 | Method | Description |
 | --- | --- |
-| `addClass` | Add a class |
-| `removeClass` | Remove a class |
-| `toggleClass` | toggle a class |
+| `add` | Add a class |
+| `remove` | Remove a class |
+| `toggle` | toggle a class |
 
 #### I Do: [JS DOM Practice Part 4](https://git.generalassemb.ly/dc-wdi-fundamentals/js-dom-practice) 
 
