@@ -261,8 +261,12 @@ interpolate data in to it.
 Every DOM node has the following properties:
 
 - `innerHTML` / `outerHTML`
-- `innerText` / `outerText`
+- `innerText` / 
 - `textContent`
+
+#### What about `outerText`?
+There's also a [non-standard `outerText`property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/outerText). It is not implemented consistently across browsers and should be avoided!
+
 
 #### I Do: [JS DOM Practice Part 3](https://git.generalassemb.ly/dc-wdi-fundamentals/js-dom-practice) 
 
