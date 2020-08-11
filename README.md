@@ -261,7 +261,7 @@ interpolate data in to it.
 Every DOM node has the following properties:
 
 - `innerHTML` / `outerHTML`
-- `innerText` / 
+- `innerText`
 - `textContent`
 
 #### What about `outerText`?
