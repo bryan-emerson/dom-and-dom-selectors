@@ -83,16 +83,13 @@ two `div` elements contained inside it, which are called child nodes. The two
 divs are also "siblings" to one another because they are on the same level in
 the tree structure.
 
-Let's look at another example:
-
-![DOM Tree Relationships](https://profsamscott.com/javascript/images/helloworldtree.jpg)
 
 ## Basics of Working with the DOM
 
 Understanding the DOM is central to working in JavaScript. JavaScript uses the
 DOM to create dynamic HTML. This includes adding new HTML elements and
 attributes, changing CSS styles in a page, removing existing elements and
-attributes, and [many more things](https://www.w3schools.com/js/js_htmldom.asp).
+attributes, and [many more things](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html).
 
 Most of what you do with client-side JavaScript is going to revolve around
 manipulating the DOM.
